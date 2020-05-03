@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HibernateBackEnd
+Bundle-SymbolicName: HibernateBackEnd
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.niit.DAO,
+ com.niit.DAOImpl,
+ com.niit.ServiceDAO,
+ com.niit.ServiceDAOImpl,
+ com.niit.Test,
+ com.niit.config,
+ com.niit.model,
+ com.niit.others
